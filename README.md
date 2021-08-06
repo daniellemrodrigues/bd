@@ -9,6 +9,6 @@ Os exercícios foram construídos utilizando o <a href='https://jupyter.org/' ta
 Deseja um tutorial para configuração do ambiente? <a href='https://www.datacamp.com/community/tutorials/sql-interface-within-jupyterlab' target='_blank'>Clique Aqui!</a>
 
 ### Como utilizar
-Basta clicar em [![Binder](https://mybinder.org/badge_logo.svg)](https://https://mybinder.org/v2/gh/daniellemrodrigues/bd/HEAD) e selecionar o notebook desejado.
+Basta clicar em [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/daniellemrodrigues/bd/HEAD) e selecionar o notebook desejado.
 
 Depois que você rodar o ambiente, indico abrir o Notebook <b>#00 - Tutorial</b> para entender como funciona o processo. 
